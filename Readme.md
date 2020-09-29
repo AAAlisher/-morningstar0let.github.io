@@ -4,7 +4,7 @@
 
 Предложения: мотоциклист управляет мотоциклом.
 
-![None](*url картинки*)
+![None](https://raw.githubusercontent.com/morningstar0let/-morningstar0let.github.io/master/Lab1/01_A0.png)
 
 Предложения после: 
 
