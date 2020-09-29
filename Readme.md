@@ -12,5 +12,5 @@
 ![None](https://raw.githubusercontent.com/morningstar0let/-morningstar0let.github.io/master/Lab1/W00.png)
 
 Диаграмма прецедентов: 
-![None](*url картинки*)
+![None](https://raw.githubusercontent.com/morningstar0let/-morningstar0let.github.io/master/Lab1/2%20diag.png)
 
