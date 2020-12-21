@@ -1,1 +1,19 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
 
+actor "Ремонтник" as user
+database "Техническое руководство" 
+database "Требования владельца" 
+control "Ремонт компьютера" as n1
+control "Проверка результатов ремонта" as n2
+
+user -> n1: подготовка к ремонту
+n1 -> n2: отремонтированный компьютер
+
+n2 -> "Компьютер": Рабочий компьютер
+@enduml
