@@ -1,16 +1,11 @@
-## Отчет о лабораторных работах Муравкина Михаила
+#  [ИДБ-17-05](https://github.com/stankin/design-part-1/wiki/list-idb-17-05) Муравкин Михаил
 
-## Лабораторная №1
+## Домашние задания по [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1#Ма..) и [семинару 2](https://github.com/stankin/design-part-1/wiki/sem2#Ма..)
 
-Предложения: мотоциклист заправляет мотоцикл.
+## [Отчет](https://github.com/Sw3nk/DyndinNickita.github.io/wiki/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-1-3) по лабораторным работам 1-3
 
-![None](https://raw.githubusercontent.com/morningstar0let/-morningstar0let.github.io/master/Lab1/01_A0.png)
+## Домашние задания по [семинарам 3-4](https://github.com/morningstar0let/-morningstar0let.github.io/wiki/%D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0)
 
-Предложения после: мотоциклист заправляет пустой мотоцикл на бензоколонке после срабатывания индикатора.
+## [Отчет](https://github.com/Sw3nk/DyndinNickita.github.io/wiki/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-4-6) по лабораторным работам 4-6
 
-Диаграмма классов: 
-![None](https://raw.githubusercontent.com/morningstar0let/-morningstar0let.github.io/master/Lab1/W00.png)
-
-Диаграмма прецедентов: 
-![None](https://raw.githubusercontent.com/morningstar0let/-morningstar0let.github.io/master/Lab1/2%20diag.png)
-
+## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam11-1) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam03-1)
