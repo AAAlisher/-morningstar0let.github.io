@@ -1,0 +1,12 @@
+@startuml
+skinparam monochrome true
+
+component [Система] as System
+component [Акустический блок] as AB
+component [Языковой блок] as LB
+
+() "Файловая система ПК" as FileSys
+System - FileSys
+AB - FileSys
+FileSys - LB
+@enduml
