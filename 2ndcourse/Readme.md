@@ -121,27 +121,29 @@
 
 * **Описываемый объект:** <программа, модуль, сообщение, база данных...>
 
-* **Диаграмма UML Class:**
-![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+* [**Диаграмма UML Class:**](https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/erdclass.txt)
 
-### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
+![p5](https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/ERDClass.png)
 
-* **Описываемые процессы и потоки данных:** Распознавание лица, отметка посещения
+### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/umlseq.txt)
+
+* **Описываемые процессы и потоки данных:** Распознавание речи
 
 * [**Диграмма UML Sequence:**](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_sequence.txt)
-![p6](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_sequence.png)
+
+![p6](https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/UMLSeq.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
 * **Описываемый объект:** Структура программных средств системы
 
-* [**Диаграмма UML Component:**](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_component.txt)
+* [**Диаграмма UML Component:**](https://github.com/morningstar0let/-morningstar0let.github.io/blob/master/2ndcourse/umlcomponent.txt)
 
-![p7](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_component.png)
+![p7](https://raw.githubusercontent.com/morningstar0let/-morningstar0let.github.io/master/2ndcourse/UMLcomponent1.png)
 
 ### 8. Демонстрация реализации (личная страница)
 
-<ссылка или скриншоты>
+Личная страница на ![GitHub](https://morningstar0let.github.io/morningstar0letpage/#!/topics)
 
 ### 9. Подготовка к интерпретации построенных моделей
 
