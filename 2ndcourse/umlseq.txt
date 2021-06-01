@@ -1,0 +1,30 @@
+@startuml
+skinparam monochrome true
+
+actor Пользователь as user
+participant "Система" as system
+participant "Микрофон" as mic
+participant "Акустический блок" as ab
+participant "Языковой блок" as lb
+database "N-граммы" as ngram
+
+user -> system : Запуск системы
+activate system
+system -> mic : Активация микрофона
+activate mic
+mic -> system : Передача сигнала
+deactivate mic
+system -> ab : Передача сигнала
+activate ab
+ab -> lb : Передача высокоуровневых признаков или фонем
+deactivate ab
+activate lb
+lb -> ngram : Распознанная яз. блоком последовательность слов
+activate ngram
+ngram -> lb : Уточненная последовательность слов
+deactivate ngram
+lb -> system : Распознанная речь
+deactivate lb
+system -> user : Вывод речи в текстовом виде
+deactivate system
+@enduml
